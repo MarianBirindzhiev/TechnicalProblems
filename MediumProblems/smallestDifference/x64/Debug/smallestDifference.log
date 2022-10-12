@@ -1,0 +1,4 @@
+﻿  smallesrDifference.cpp
+D:\problems\MediumProblems\smallestDifference\smallesrDifference.cpp(11,86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\problems\MediumProblems\smallestDifference\smallesrDifference.cpp(6,9): warning C4189: 'max': local variable is initialized but not referenced
+  smallestDifference.vcxproj -> D:\problems\MediumProblems\x64\Debug\smallestDifference.exe
