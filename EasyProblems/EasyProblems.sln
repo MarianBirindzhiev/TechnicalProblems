@@ -17,6 +17,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SearchInsertPosition", "Val
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveOneElementToMakeTheArrayStriclyIncreasing", "RemoveOneElementToMakeTheArrayStriclyIncreasing\RemoveOneElementToMakeTheArrayStriclyIncreasing.vcxproj", "{8636B6A4-1ED7-4FF0-B97E-9E185F5C20CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.vcxproj", "{434D3EA8-369B-44CE-99F5-3BF6D9245067}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.vcxproj", "{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +85,22 @@ Global
 		{8636B6A4-1ED7-4FF0-B97E-9E185F5C20CB}.Release|x64.Build.0 = Release|x64
 		{8636B6A4-1ED7-4FF0-B97E-9E185F5C20CB}.Release|x86.ActiveCfg = Release|Win32
 		{8636B6A4-1ED7-4FF0-B97E-9E185F5C20CB}.Release|x86.Build.0 = Release|Win32
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Debug|x64.ActiveCfg = Debug|x64
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Debug|x64.Build.0 = Debug|x64
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Debug|x86.ActiveCfg = Debug|Win32
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Debug|x86.Build.0 = Debug|Win32
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Release|x64.ActiveCfg = Release|x64
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Release|x64.Build.0 = Release|x64
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Release|x86.ActiveCfg = Release|Win32
+		{434D3EA8-369B-44CE-99F5-3BF6D9245067}.Release|x86.Build.0 = Release|Win32
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Debug|x64.Build.0 = Debug|x64
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Debug|x86.Build.0 = Debug|Win32
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Release|x64.ActiveCfg = Release|x64
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Release|x64.Build.0 = Release|x64
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Release|x86.ActiveCfg = Release|Win32
+		{6AD4E140-C4B3-4A93-B9E0-7D24D5A975B3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
