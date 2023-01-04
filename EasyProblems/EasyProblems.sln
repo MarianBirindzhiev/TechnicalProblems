@@ -27,7 +27,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleNumber", "SingleNumbe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqrt(x)", "sqrt(x)\sqrt(x).vcxproj", "{EE7B5C15-6541-4B11-8474-86CCECCB7DA7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tournament", "Tournament\Tournament.vcxproj", "{4DD08ABA-9711-4A7C-B57E-00E838689BFB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TournamentWinner", "Tournament\Tournament.vcxproj", "{4DD08ABA-9711-4A7C-B57E-00E838689BFB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "closestValueInBST", "closestValueInBST\closestValueInBST.vcxproj", "{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{4DD08ABA-9711-4A7C-B57E-00E838689BFB}.Release|x64.Build.0 = Release|x64
 		{4DD08ABA-9711-4A7C-B57E-00E838689BFB}.Release|x86.ActiveCfg = Release|Win32
 		{4DD08ABA-9711-4A7C-B57E-00E838689BFB}.Release|x86.Build.0 = Release|Win32
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Debug|x64.ActiveCfg = Debug|x64
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Debug|x64.Build.0 = Debug|x64
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Debug|x86.Build.0 = Debug|Win32
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Release|x64.ActiveCfg = Release|x64
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Release|x64.Build.0 = Release|x64
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Release|x86.ActiveCfg = Release|Win32
+		{C822296B-24EB-46C0-9E8D-1B8DDE4BF5C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
