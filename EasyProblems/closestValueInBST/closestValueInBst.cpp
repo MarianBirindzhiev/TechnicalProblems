@@ -20,18 +20,20 @@ int findClosestValueInBst(BST* tree, int target)
     return findClosestValueInBstHelper(tree, target, tree->value);
 }
 
-int findClosestValueInBstHelper(BST* tree, int target,int closest) 
+int findClosestValueInBstHelper(BST* tree, int target, int currentSmallest)
 {
-    if (std::abs(target - closest) > std::abs(target - tree->value))
-        closest =tree->value;
+    if (std::abs(tree->value - target) < std::abs(currentSmallest-target))
+        currentSmallest = tree->value;
 
     if (target < tree->value && tree->left)
-        return findClosestValueInBstHelper(tree->left, target, closest);
+        findClosestValueInBstHelper(tree->left, target, currentSmallest);
     else if (target > tree->value && tree->right)
-        return findClosestValueInBstHelper(tree->right, target, closest);
+        findClosestValueInBstHelper(tree->right, target, currentSmallest);
     else
-        return closest;
+        return currentSmallest;
+
 }
+
 
 
 int main()

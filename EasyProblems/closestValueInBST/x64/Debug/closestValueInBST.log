@@ -1,2 +1,3 @@
 ﻿  closestValueInBst.cpp
+D:\Programs\VisualStudio\TechnicalProblems\EasyProblems\closestValueInBST\closestValueInBst.cpp(35): warning C4715: 'findClosestValueInBstHelper': not all control paths return a value
   closestValueInBST.vcxproj -> D:\Programs\VisualStudio\TechnicalProblems\EasyProblems\x64\Debug\closestValueInBST.exe

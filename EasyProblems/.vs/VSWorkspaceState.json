@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClassPhotos"
+    "\\closestValueInBST",
+    "\\Tournament"
   ],
-  "SelectedNode": "\\EasyProblems.sln",
+  "SelectedNode": "\\closestValueInBST\\closestValueInBst.cpp",
   "PreviewInSolutionExplorer": false
 }

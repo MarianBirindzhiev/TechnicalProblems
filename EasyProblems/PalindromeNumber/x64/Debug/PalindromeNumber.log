@@ -1,2 +1,7 @@
 ﻿  palindromeNumber.cpp
-  PalindromeNumber.vcxproj -> D:\problems\EasyProblems\x64\Debug\PalindromeNumber.exe
+D:\Programs\VisualStudio\TechnicalProblems\EasyProblems\PalindromeNumber\palindromeNumber.cpp(20,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  PalindromeNumber.vcxproj -> D:\Programs\VisualStudio\TechnicalProblems\EasyProblems\x64\Debug\PalindromeNumber.exe
