@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\closestValueInBST",
+    "\\missingNumber",
     "\\PalindromeNumber",
     "\\Tournament"
   ],
-  "SelectedNode": "\\PalindromeNumber\\palindromeNumber.cpp",
+  "SelectedNode": "\\missingNumber\\missingNumber.cpp",
   "PreviewInSolutionExplorer": false
 }

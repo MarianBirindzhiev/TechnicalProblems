@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NodeDepths", "NodeDepths\No
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "missingNumber", "missingNumber\missingNumber.vcxproj", "{08275336-859B-4582-B2F2-801B80B105EB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binaryTreeInorderTraversal", "binaryTreeInorderTraversal\binaryTreeInorderTraversal.vcxproj", "{1F85CBBB-6352-42E7-A114-CEE2CBA60709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{08275336-859B-4582-B2F2-801B80B105EB}.Release|x64.Build.0 = Release|x64
 		{08275336-859B-4582-B2F2-801B80B105EB}.Release|x86.ActiveCfg = Release|Win32
 		{08275336-859B-4582-B2F2-801B80B105EB}.Release|x86.Build.0 = Release|Win32
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Debug|x64.ActiveCfg = Debug|x64
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Debug|x64.Build.0 = Debug|x64
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Debug|x86.Build.0 = Debug|Win32
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Release|x64.ActiveCfg = Release|x64
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Release|x64.Build.0 = Release|x64
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Release|x86.ActiveCfg = Release|Win32
+		{1F85CBBB-6352-42E7-A114-CEE2CBA60709}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
